@@ -174,7 +174,7 @@ LIMIT 10;
 
 ### E-Commerce Sales Performance Dashboard
 
-![Dashboard Preview](dashboard/metabase_dashboard.png)
+![Dashboard Preview](images/Dashboard1.png)
 
 The dashboard includes:
 
